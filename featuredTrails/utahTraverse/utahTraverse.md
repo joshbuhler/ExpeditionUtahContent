@@ -10,11 +10,9 @@
 [Read more about this trip here.](https://www.expeditionutah.com/forum/index.php?threads/southern-utah-traverse-2009.1127/)
 
 ## GPS Track File:
-GPX Link Southern Utah Traverse GPX File – Last Updated August 2009
+Download the 2009 Southern Utah Traverse [GPX File](utahTraverse.gpx)
 
 ![Floridians do Utah](01.jpg)
-
-[Floridians do Utah - (a traverse plus some other stuff)](https://www.expeditionutah.com/forum/index.php?threads/floridians-do-utah-a-traverse-plus-some-other-stuff.2903/)
 
 ## History
 The “Utah Traverse” proper route first popped up on ExpeditionUtah in 2008 at the hands of forum member and long-time Southern Utah traveler Sinuhe Xavier. You can [read more about his thought process and planning](https://www.expeditionutah.com/forum/index.php?threads/the-utah-traverse.331/) behind the Utah Traverse.
@@ -25,36 +23,24 @@ Covering such an unique and remote portion of Utah inspired countless others to 
 
 ![Great scenery near the start of the Woodenshoe Road – Photo by iceaxe](https://www.expeditionutah.com/wp-content/uplwp-content/uploadsoa/2011/09/Capture.jpg)
 
-
 ## Trip Reports & Planning Threads
-http://www.expeditionutah.com/forum/showthread.php?t=346
-http://www.expeditionutah.com/forum/showthread.php?t=838
-http://www.expeditionutah.com/forum/showthread.php?t=986
-http://www.expeditionutah.com/forum/showthread.php?t=1127
-http://www.expeditionutah.com/forum/showthread.php?t=2903
-http://www.expeditionamericas.com/exam/uce.pdf
+
+* [Southern Utah Traverse 2009](https://www.expeditionutah.com/forum/index.php?threads/southern-utah-traverse-2009.1127/)
+* [Floridians do Utah - (a traverse plus some other stuff)](https://www.expeditionutah.com/forum/index.php?threads/floridians-do-utah-a-traverse-plus-some-other-stuff.2903/)
+* [EU.com Utah Traverse 2009 - Beta Planning Thread](https://www.expeditionutah.com/forum/index.php?threads/eu-com-utah-traverse-2009-beta-planning-thread.346/)
+* [Southern Utah Traverse, Sept 4–13](https://www.expeditionutah.com/forum/index.php?threads/southern-utah-traverse-sept-4%E2%80%9313.838/)
+* [Utah Traverse progress](https://www.expeditionutah.com/forum/index.php?threads/utah-traverse-progress.986/)
+* [Utah Cruiser Expedition](http://www.expeditionamericas.com/exam/uce.pdf)
 
 ![Three Kiva Pueblo – Photo by iceaxe](03.jpg)
 
-https://www.expeditionportal.com/forum/threads/exp-ut-southern-utah-traverse-sept-09.60947/
-https://backcountrypost.com/threads/southern-utah-traverse-2009.1948/
 
+## Video Trip Reports
 
-## Videos
-
-* Arizona Land Rover Owner’s club drives the Utah Traverse
-	* https://www.youtube.com/watch?v=U3Nl4Mr4qXM
-
-* ONTV: Overlanding USA - S2 E1 - Utah Traverse
-	* https://youtu.be/pDSiR_NzMHk
-* ONTV: Overlanding USA - S2 E2 - Utah Traverse
-	* https://www.youtube.com/watch?v=CNuHF7wp-o4
-* ONTV: Overlandingusa - S2 E3 - Utah Traverse
-	* https://youtu.be/gEZu-MnnjV0
-
-* BOLD Overland S3 E1 Utah Traverse Expedition: Westbound and Down
-	* https://www.youtube.com/watch?v=HrHUC5T9kSY
-* BOLD Overland S3 E2 Utah Traverse Expedition: High Desert Nights
-	* https://www.youtube.com/watch?v=YbQ8NAcEFI0
-* BOLD Overland S3 E3 Utah Traverse Expedition: Where the Wind Blows
-	* https://www.youtube.com/watch?v=iZ89vBJ9zZ4
+* [Arizona Land Rover Owner’s club drives the Utah Traverse](https://www.youtube.com/watch?v=U3Nl4Mr4qXM)
+* [BOLD Overland S3 E1 Utah Traverse Expedition: Westbound and Down](https://www.youtube.com/watch?v=HrHUC5T9kSY)
+* [BOLD Overland S3 E2 Utah Traverse Expedition: High Desert Nights](https://www.youtube.com/watch?v=YbQ8NAcEFI0)
+* [BOLD Overland S3 E3 Utah Traverse Expedition: Where the Wind Blows](https://www.youtube.com/watch?v=iZ89vBJ9zZ4)
+* [ONTV: Overlanding USA - S2 E1 - Utah Traverse](https://youtu.be/pDSiR_NzMHk)
+* [ONTV: Overlanding USA - S2 E2 - Utah Traverse](https://www.youtube.com/watch?v=CNuHF7wp-o4)
+* [ONTV: Overlandingusa - S2 E3 - Utah Traverse](https://youtu.be/gEZu-MnnjV0)
