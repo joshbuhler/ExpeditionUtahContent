@@ -24,7 +24,7 @@ Following the route will lead through Homansville Canyon, where across the canyo
 
 ## Trip Planning & Resources
 
-* [Full trip report by Old Jeeper.](https://www.expeditionutah.com/forum/index.php?threads/eureka-ghost-rail-tintic-range-railroad.5086/)
+* [Full trip report by Old Jeeper](https://www.expeditionutah.com/forum/index.php?threads/eureka-ghost-rail-tintic-range-railroad.5086/)
 * Book: Historical Guide to Utah Ghost Towns - Stephen L. Carr
 * Book: Utah Ghost Rails - Stephen L. Carr & Robert W. Edwards
 * Book: Faith, Hope and Prosperity: The Tintic Mining District - Philip F. Notarianni
