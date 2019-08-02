@@ -3,17 +3,21 @@
 
 I was doing a little research out of curiosity what settlements the trail connected to, and decided to throw it all together.
 
-Not much of this historic wagon trail lies within Utah but it's primary destination was St George and specifically the Temple there,
-the first LDS Temple completed in Utah (& west of the Mississippi) by 1877. Over 400 desolate miles all totaled up, the trail was
+Not much of this historic wagon trail lies within Utah but it's primary destination was St George and specifically the temple there,
+the first LDS temple completed in Utah (& west of the Mississippi) by 1877. Over 400 desolate miles all totaled up, the trail was
 used by missionary/settlers called by Brigham Young to populate the upper Little Colorado Valley areas in northern Arizona around
 1876 after a couple of scouting expeditions and became the primary link for those people with friends and relatives and the
-Church back in Utah (was also used by a couple southern Utah settlements, joining in at Kanab iirc).
+church back in Utah (was also used by a couple southern Utah settlements, joining in at Kanab).
+
+![Fort Pearce - Photo: iceaxe](fortPearce.jpg)
 
 Why the name Honeymoon trail? LDS couples would save up enough to get an outfit together and make the rugged often six week
-round trip journey to be married in the Temple. Making the journey usually in groups, shaperoned if not yet wed, or sometimes they
+round trip journey to be married in the temple. Making the journey usually in groups, chaperoned if not yet wed, or sometimes they
 would be married civilly first, then going later or as a family to enjoy the sealing ceremonies so special and important to them, that
-only the Temple provided. Will C Barnes writing an article about it for Arizona Highways in 1934 coined the phrase and it has since
+only the temple provided. Will C. Barnes writing an article about it for Arizona Highways in 1934 coined the phrase and it has since
 stuck. The first wedding party said to make the trip did so in the fall of 1881.
+
+![Switchback up the Hurricane Cliffs - Photo: iceaxe](switchback.jpg)
 
 The trail in Utah: After the dangerous Colorado River crossing at Lee's Ferry and the Kiabab Plateau travelers stopped briefly in Kanab
 first, then dipped back across the border to Pipe Springs and on toward the Hurricane Cliffs. The trail crosses back in to Utah for a
@@ -28,69 +32,58 @@ built in Mesa AZ, closer to the surviving settlements.
 
 Read [the full report by iceaxe](https://www.expeditionutah.com/forum/index.php?threads/honeymoon-trail.2292/) this article is based on.
 
-
-![Fort Pearce - Photo: iceaxe](fortPearce.jpg)
-
-![Switchback up the Hurricane Cliffs - Photo: iceaxe](switchback.jpg)
-
-![Still climbing :) - Photo: iceaxe](stillClimbing.jpg) 
+![Still climbing :) - Photo: iceaxe](stillClimbing.jpg)
 
 
 ## Trip Planning & Resources
 
-### Trip Reports
+### Brief Histories & Descriptions
+* [The Honeymoon Trail](http://www.stgeorgetemplevisitorscenter.info/temple/honeymoon.html)
+* [BLM: Honeymoon Trail](https://www.blm.gov/visit/search-details/16454/2)
+* [Vermilion Cliffs National Monument Proclamation](https://www.blm.gov/sites/blm.gov/files/documents/az_verm_proc.pdf)
+* [Historic Trails of Arizona - Mormon Honeymoon Trail](https://azstateparks.com/historic-trails-of-arizona-mormon-honeymoon-trail)
+* [Family Search: Honeymoon Trail](https://wiki.familysearch.org/en/Honeymoon_Trail)
+* [The Honeymoon Trail: Text from the July 1989 *Ensign*](http://www.george-and-ann-prior-jarvis.org/html_docs/honeymoon_trail.html)
+* [DUP Collecting Arizona 'Honeymoon Trail' Stories for Book](http://www.mormonstoday.com/010525/N6AZHoneymoonTrail01.shtml)
 
-Brief Histories & Descriptions
-http://www.stgeorgetemplevisitorscenter.info/temple/honeymoon.html
-http://www.blm.gov/ut/st/en/fo/st__george/more/heritage_resources/historic_trails/honeymoon_trail.html (BLM)
-http://www.blm.gov/az/st/en/prog/recreation/hiking/historic_trails.html
-http://www.blm.gov/ut/st/en/fo/st__george/recreation/motorized_recreation/popular_routes/honeymoon_trail.html
-http://azstateparks.com/trails/historic/trail_09.html
-http://www.cliffdwellerslodge.com/main/?page_id=253
-https://wiki.familysearch.org/en/Honeymoon_Trail (family Search)
-http://www.george-and-ann-prior-jarvis.org/html_docs/honeymoon_trail.html (same text as one of the above but with photos)
-http://www.mormonstoday.com/010525/N6AZHoneymoonTrail01.shtml
+### Trail Historic Markers & Plaques
+* [35 W State St, Hurricane, UT - Link broken, but marker may still exist at street address listed](http://history.utah.gov/apps/markers/detailed_results.php?markerid=3178)
+* [Pioneer Park, on E Main St (526 East Main Street) Mesa AZ](http://www.hmdb.org/marker.asp?marker=27552)
+* [St George, Utah LDS Temple](http://www.untraveledroad.com/USA/Utah/Washington/StGeorge/46WSign.htm)
+* [Sunset Crossing historical marker Winslow AZ, Route 66 rest area, 35° 0.89′ N, 110° 40.743′ W](http://www.hmdb.org/marker.asp?marker=32722)
 
-Gallaries Of Historic Inscriptions
-http://www.honeymoontrail.net/Honeymoon-Trail-Historic
+### Books
 
-Trail Historic Markers & Plaques
-http://history.utah.gov/apps/markers/detailed_results.php?markerid=3178 35 W State St, Hurricane
-http://www.hmdb.org/marker.asp?marker=27552 Pioneer Park, on E Main St (526 East Main Street) Mesa AZ
-http://www.untraveledroad.com/USA/Utah/Washington/StGeorge/46WSign.htm St George Temple
-http://www.hmdb.org/marker.asp?marker=32722 Sunset Crossing historical marker Winslow AZ, Route 66 rest area, 35° 0.89′ N, 110° 40.743′ W
+* [*Arizona's Honeymoon Trail and Mormon Wagon Roads* by Norma Baldwin Ricketts](https://www.amazon.com/Arizonas-Honeymoon-Trail-Mormon-Wagon/dp/B000JGQ3XS)
 
-Books
-http://www.amazon.com/Arizonas-Honeymoon-Trail-Mormon-Wagon/dp/B000JGQ3XS "Arizona's Honeymoon Trail and Mormon Wagon Roads" Byrkit
-(by Norma Baldwin Ricketts (Editor), May by Jim Byrkit (Illustrator), Commentary by Marshall Trimble (Narrator),)
+### Magazine Articles
 
-Magazine Articles
-Barnes, Will C. 1934. "The Honeymoon Trail to Utah". Arizona Highways. 6-7
-? May 1978 "The Honeymoon Trail, 5th Calvary Rides Again". Arizona Highways?
-http://www.4wdandsportutility.com/adventures/rockies/1105_4wd_the_honeymoon_trail_part_1/viewall.html 4WD&SU May 2011, Part I
-http://4wheeldrivesportutility.automotive.com/158543/1106-4wd-the-honeymoon-trail-part-2/index.html 4WD&SU June 2011, Part II
+* Barnes, Will C. 1934. "The Honeymoon Trail to Utah". Arizona Highways. 6-7
+* May 1978 "The Honeymoon Trail, 5th Calvary Rides Again". Arizona Highways?
+* 4-Wheel Drive and Sport Utility - May 2011, Part I
+* 4-Wheel Drive and Sport Utility - June 2011, Part II
 
-Newspaper Articles
-http://www.ldschurchnews.com/articles/59586/Jacob-Hamblin-History-of-Honeymoon-Trail.html July 8th 2010 Church News
-http://www.deseretnews.com/top/152/1390/10-lesser-known-LDS-Church-sites--Honeymoon-trail-Winslow-Ariz-to-St-George.html Deseret News, Mormon Times, "10 Lesser-known LDS Church Sites"
-Arizona Republic 20th May 2001 "Honeymoon Trail" (online?...)
+### Newspaper Articles
+* [July 8th 2010 Church News](https://web.archive.org/web/20120921042742/http://www.ldschurchnews.com/articles/59586/Jacob-Hamblin-History-of-Honeymoon-Trail.html)
+* [Deseret News, Mormon Times, "10 Lesser-known LDS Church Sites"](http://www.deseretnews.com/top/152/1390/10-lesser-known-LDS-Church-sites--Honeymoon-trail-Winslow-Ariz-to-St-George.html)
+* Arizona Republic 20th May 2001 "Honeymoon Trail"
 
-Church references
-http://www.ldschurchnews.com/articles/61173/Trek-on-the-Honeymoon-Trail.html (youth trek)
-http://lds.org/liahona/1997/10/the-honeymoon-trail?lang=eng Oct, 97 Liahona
+### Church references
+* [](https://web.archive.org/web/20190215134737/https://www.thechurchnews.com/articles/61173/Trek-on-the-Honeymoon-Trail.html/)
+* [LDS.org: The Honeymoon Trail](https://www.churchofjesuschrist.org/study/liahona/1997/10/the-honeymoon-trail?lang=eng)
 
-Honeymoon Trail Gravesites
-http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GScid=2321222&GRid=41101745&
-http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GScid=2321222&GRid=41425061&
+### Honeymoon Trail Gravesites
+* [Find a Grave: May Whiting](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GScid=2321222&GRid=41101745&)
+* [Find a Grave: Ida May Turley](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GScid=2321222&GRid=41425061&)
 
-ATV Utah ATV loop
-http://www.atvutah.com/riders_reports/Ridgrunr/index.htm
+### ATV Utah ATV loop
+* [Arizona Strip Frontier ATV Trail](http://www.atvutah.com/riders_reports/Ridgrunr/index.htm)
 
-Mountain biking trails, Warner Valley
-http://www.utahmountainbiking.com/trails/warner.htm
-http://www.trailfu.com/mountain-bike/utah/hurricane/honeymoon-trail/Default.aspx
+### Mountain biking trails, Warner Valley
+* [Warner Valley Loop](http://www.utahmountainbiking.com/trails/warner.htm)
 
-Related/Intersecting Historic Trails:
-Temple Trail
-Armijo route - Old Spanish Trail
-Dominguez Escalante route
+### Related/Intersecting Historic Trails
+
+* Temple Trail
+* Armijo route - Old Spanish Trail
+* Dominguez Escalante route
