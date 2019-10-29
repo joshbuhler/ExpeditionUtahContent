@@ -8,31 +8,25 @@ The Great Salt Lake Desert was a major obstacle facing travelers to California. 
 
 Early efforts to find a route across the desert ran afoul of salt, heat, and lack of water. Finally, a trail was pioneered that skirted the worst of the salt desert, going from spring to spring, “following the moistures”. The route was poor in feed, extremely isolated, muddy in spring and fall, dusty or cold otherwise, and plagued by Indians. In spite of these drawbacks, it served the communication need and became famous as the Overland Route (some sections are labelled as such on some maps).
 
-back coverThe route of the Pony Express (since 1992, the Pony Express National Historic Trail) angles south and west from South Pass, across the Green River and on to Fort Bridger. The trail continues at a distance south of Interstate 80 and follows Coyote Creek, entering Utah from the east at The Needles, a few miles south of where Evanston, WY, now stands. The riders proceeded past historic Cache Cave and down Echo Canyon, the modern route or I-80 and I-84, to the present-day town of Henefer. There they turned south through East Canyon, crossed Big and Little Mountains, and entered the Salt Lake Valley by way of Emigration Canyon. The trail to Salt Lake City followed in large measure, the trail of the Donner Party and the Mormon Pioneers; you will see markings, monuments along the way.
+The route of the Pony Express (since 1992, the Pony Express National Historic Trail) angles south and west from South Pass, across the Green River and on to Fort Bridger. The trail continues at a distance south of Interstate 80 and follows Coyote Creek, entering Utah from the east at The Needles, a few miles south of where Evanston, WY, now stands. The riders proceeded past historic Cache Cave and down Echo Canyon, the modern route or I-80 and I-84, to the present-day town of Henefer. There they turned south through East Canyon, crossed Big and Little Mountains, and entered the Salt Lake Valley by way of Emigration Canyon. The trail to Salt Lake City followed in large measure, the trail of the Donner Party and the Mormon Pioneers; you will see markings, monuments along the way.
 
 From Salt Lake City, they rode south, pretty much along the modern State Street to the area of the Utah State Prison, then crossed the Jordan River and angled south and west to the town of Fairfield and Camp Floyd, a site steeped in history. The route then led south and mostly west past Simpson Springs, Fish Springs, Willow Springs, and across the northern end of the Deep Creek Mountains to the present-day village of Ibapah.
 
-DIVISION 3 (cont’d):
+## DIVISION 3
 
-96. The Needles/Needle Rock(s) Station (N41 09 50.0 W111 02 57.0) (P)
+96. **The Needles/Needle Rock(s) Station** (N41 09 50.0 W111 02 57.0) (P)
 
-mapLocated (NE1/4NW1/4 Section 21, Township 5 North, Range 8 East, Salt Lake Meridian.) just on the Utah side of the border with Wyoming, it lies on Yellow Creek, almost 10 miles south of the town of Evanston, approximately 8 miles from Bear River Station, Wyoming.
+Located (NE1/4NW1/4 Section 21, Township 5 North, Range 8 East, Salt Lake Meridian.) just on the Utah side of the border with Wyoming, it lies on Yellow Creek, almost 10 miles south of the town of Evanston, approximately 8 miles from Bear River Station, Wyoming.
 
 Little is known of the station, as none of the contemporary writers left a description. The station is named for a rock formation described by British explorer Sir Richard Burton as “…a huge Stonehenge, a crown of broken and somewhat lanceolate perpendicular conglomerates or cemented pudding stones called not inappropriately Needle Rocks.” Two stone foundations remain at the location (N41 10 16.9 W111 02 41.7) of the station. The site is on private land.
 
 The 1869 GLO cadastral plat (right figure) shows the station location being at Porter’s Ranch along the Omaha to Salt Lake Valley Road. The route through this area also was used by the Donner-Reed party in 1846, the Mormon Pioneers in 1847, by General Johnston’s Army in 1858, and the transcontinental telegraph in 1861.
 
-97. (Head of) Echo Canyon Station (N41 07 28.0 W111 11 15.0) (P)
-
-
-Head of Echo Canyon or Castle Rock Station site (BLM 1978)
+97. **(Head of) Echo Canyon Station** (N41 07 28.0 W111 11 15.0) (P)
 
 Location: Lot 3, Section 6, Township 4 North, Range 7 East, Salt Lake Meridian.
 
 About 8 miles from Needle Rock Station, this station, the first in Echo Canyon, was named for the large sandstone formation located near the site. The station, made of logs, was sold to a French trapper and moved a mile away in 1867. The station site is located approximately where the old Castle Rock grocery store now stands.
-
-
-Historic signatures in Cache Cave (BLM photo 1978)
 
 The station at the head of Echo Canyon was also known as Frenchies and Castle Rock. It was a contract station on the Pony Express and Stage route. Jabusch believes that the station originally stood in the abandoned town called Castle Rock, which was located about 1½ miles down the canyon from the present junk yard site known as Castle Rock. The structure was apparently built of logs, and after being sold to a French trapper in 1867, was moved up to the canyon to the junk yard site, owned in recent years by the late Curtis Moore.
 
@@ -40,7 +34,7 @@ Nothing remains of this site.
 
 Back to the SE, and unfortunately on private land, one finds the well-known trail landmark called Cache Cave. The cave was a popular camping spot on the Emigrant Trail, and, high up on the cave walls where livestock cannot rub, the names of many Mormon Pioneers can still be seen.
 
-98. Halfway Station (N41 03 00.0 W111 18 13.0) (NM)
+98. **Halfway Station** (N41 03 00.0 W111 18 13.0) (NM)
 
 Location: NW1/4SW1/4 Section 29, Township 4 North, Range 6 East, Salt Lake Meridian.
 
@@ -48,9 +42,9 @@ Approximately 7 miles from Head of Echo Canyon Station, about half way down Echo
 
 Fike and Headley tell an unresearched story that, in the early days of the Pony, rustlers in the area would steal the express horses, then later sell them back to the company. When the horses began to be branded with the XP (Express) brand, the rustling ended. It was likely destroyed when the existing highway was built as nothing can be found.
 
-99. Weber Station (N40 58 21.8 W111 26 18.5) (M – N40 58 22.0 W111 26 18.0) (P)
+99. **Weber Station** (N40 58 21.8 W111 26 18.5) (M – N40 58 22.0 W111 26 18.0) (P)
 
-map
+![](Weber.jpg)
 
 Location: NW1/4NE1/4 Section 25 Township 3 North, Range 4 East, Salt Lake Meridian, about 9¾ miles from Halfway Station.
 
@@ -58,17 +52,19 @@ Known by a variety of names, including Bromley’s, Pulpit Rock, Hanging Rock, a
 
 Passing through in 1859, Greeley found “Two ‘groceries,’ a blacksmith’s shop, and a mail station” at the location. Burton also describes the location, saying, “…we debauched upon Weber River Station. It lies at the mouth of the ravine almost under the shadow of the lofty red bluffs, called ‘The Obelisks,’ and the green and sunny landscape contrasting with the sterile grandeur behind, is exceedingly pleasing…. The station was tolerably comfortable, and the welcome addition of potatoes and onions to our fare was not to be despised.”
 
+![](Weber_backside.jpg)
+
 About 2 miles west of Weber Station, the mail was transported across Forney’s Bridge on the Weber River. The bridge was constructed prior to June 1858. From this location, the Express riders traveled up Bachelors Canyon to the top of Dixie Hollow. When the crossing was unsafe or the canyons were snowed in, the rider could go on down the valley to the Brimville Emergency Station or Henneforville, now Henefer and around by Little East Canyon to Dixie Hollow. The pioneer immigrants came part way down Dixie Hollow, turned right, crossed the ridge, and then went south into East Canyon. By the time of the Express, the road was built all the way down the hollow to just south of where it opens into East Canyon.
 
-100. Brimville Emergency Station/Dixie Hollow Station (N40 56 26.0 W111 33 38.0) (P)
+100. **Brimville Emergency Station/Dixie Hollow Station** (N40 56 26.0 W111 33 38.0) (P)
 
-mapLocation: NE1/4SE1/4 Section 10, Township 2 North, Range 3 East, Salt Lake Meridian, about 10½ miles from Weber via Bachelors Canyon or about 13½miles from Weber via Henefer.
+Location: NE1/4SE1/4 Section 10, Township 2 North, Range 3 East, Salt Lake Meridian, about 10½ miles from Weber via Bachelors Canyon or about 13½miles from Weber via Henefer.
 
 This station in Dixie Hollow was also commonly known as Dixie Creek , East Canyon, and Snyder’s Mill. The exact location has been a matter of considerable debate. Joe Nardone agrees with Mormon Trail authority Lamar Barrett that the station sat directly in the mouth of the draw, at a site marked by a pile of rocks. David and Susan Jabusch found no artifacts of any type during their initial and thorough survey. According to members of the Bertagnole family, who have been on the land for generations, the right location is a short distance to the south where a catch basin for watering livestock and a small grove of trees are found today. Construction of the small reservoir obliterated any evidence of a station at that spot. The U.S. Geological Survey, after consultation with prominent Utah historians, placed Dixie Station at the Bertagnole site. Brimville Emergency Station was located in Henefer and only used during bad weather. Located on private land but visible from the highway. Nothing remains but the location (N40 56 25.8 W111 33 36.8) is shown on USGS 1:24000 scale maps and is believed to be correct.
 
-101-103. Bauchmann’s/Carson House Station/East Canyon Station/Wheaton Springs Station (N40 51 23.8 W111 35 20.8) (NM?) (P)
+101-103. **Bauchmann’s/Carson House Station/East Canyon Station/Wheaton Springs Station** (N40 51 23.8 W111 35 20.8) (NM?) (P)
 
-mapLocation: SE1/4NE1/4 Section 5, Township 1 North, Range 3 East, Salt Lake Meridian, approximately 8 miles from East Canyon, it was a stop for both the Pony Express and the stagecoach. It was the 6th contract station in Utah. The station was also known as East Canyon and Carson House Station, or sometimes as Dutchman’s Flat by riders who could not remember the name of the German, Bauchmann.
+Location: SE1/4NE1/4 Section 5, Township 1 North, Range 3 East, Salt Lake Meridian, approximately 8 miles from East Canyon, it was a stop for both the Pony Express and the stagecoach. It was the 6th contract station in Utah. The station was also known as East Canyon and Carson House Station, or sometimes as Dutchman’s Flat by riders who could not remember the name of the German, Bauchmann.
 
 The station was a one-room cabin built of squared logs. As it appears today, the building has been extensively remodeled to make an attractive and comfortable summer cabin. It has been moved ~100 yards SW from its original location. The station and site are owned by the Clayton-Macfarlane Ranch.
 
@@ -76,7 +72,7 @@ Burton’s party stopped for the night at “the ‘Carson House Station’ at B
 
 The station is on private property and the ranch owners have moved and restored it. USGS maps show a monument location (N40 51 20.0 W111 35 19.0) but it appears to be no longer be there.
 
-104. Mountain Dell/Dale/Ephraim Hanks Station (N40 46 52.8 W111 40 58.8) (M?) ($)
+104. **Mountain Dell/Dale/Ephraim Hanks Station** (N40 46 52.8 W111 40 58.8) (M?) ($)
 
 Location: NE1/4SW1/4 Section 33, Township 1 North, Range 2 East, Salt Lake Meridian, about 8¾ miles from Wheaton Springs. A vandalized monument in the NW1/4 of the NW1/4 of Section 36 presently marks the location of the assumed station site.
 
@@ -84,19 +80,19 @@ The contract lists the 7th Utah station as being in “Mountain Dale.” It was 
 
 Station keeper Ephraim Hanks was a colorful character on the Mormon frontier. It was widely rumored that he was a leading figure among a group of Mormon “hit-men” called the Danites, or Destroying Angels.
 
-105. Salt Lake City Station (N40 45 58.4 W111 53 27.9) (M)
+105. **Salt Lake City Station** (N40 45 58.4 W111 53 27.9) (M)
 
-map
+![](SaltLake.jpg)
 
 Location: NW1/4NW1/4 Section 6, Township 1 South, Range 1 East, Salt Lake Meridian approximately 9 miles from Mountain Dale.
 
 This station, similar in construction to Brigham Young’s Beehive House, stood where the Salt Lake Tribune Building now stands, at 143 South Main. Because of recent street beautification, the monument has been moved to the south. According to Sir Richard Burton, the station was one of the better facilities along the Overland Trail for food and lodging. Horace Greeley and Mark Twain were among the guests. This was a home station for Pony Express riders. It was a long, two-story structure with a veranda in front and a large livestock yard in the rear. A granite monument with bronze plaques marks the location today.
 
-DIVISION 4:
+## DIVISION 4
 
-106. Trader’s Rest/Traveler’s Rest Station (N40 37 59.9 W111 53 21.8) (M)
+106. **Trader’s Rest/Traveler’s Rest Station** (N40 37 59.9 W111 53 21.8) (M)
 
-
+![](tradersRest.jpg)
 
 Location: Lot 2, Township 2 South, Range 1 East, Salt Lake Meridian, 9 miles south of Salt Lake House.
 
