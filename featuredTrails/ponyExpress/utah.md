@@ -98,75 +98,62 @@ Location: Lot 2, Township 2 South, Range 1 East, Salt Lake Meridian, 9 miles sou
 
 Constructed of adobe, in later years, the structure was covered with wood siding and a false front and re-converted into a business (See Photo 14). More recently it served as a garage.
 
+![](TradersRest_02.jpg)
+
 Located just north of 7200 South street, on the west side of State Street, about 2 miles NNW of Union Fort. Travelers’ Rest, or Traders’ Rest, the 1st pony express station out of Salt Lake City. The area was called Lovendahl’s Corner after Swen Lovendahl, an early settler. This station was probably used only for a short time, and no evidence of its existence can be found at the site. The location (N40 37 15.6 W111 53 26.9) is marked by a granite marker placed by the Pony Express Trail Association.
 
-107. Rockwell’s Station (N40 29 07.0 W111 54 14.0) (M)
+107. **Rockwell’s Station** (N40 29 07.0 W111 54 14.0) (M)
 
+![](rockwell_01.jpg)
 
+Location: SW1/4NW1/4 Section 15, Township 4 South, Range 1 West, Salt Lake Meridian, 10 miles south of Trader’s Rest Station.
 
-mapLocation: SW1/4NW1/4 Section 15, Township 4 South, Range 1 West, Salt Lake Meridian, 10 miles south of Trader’s Rest Station.
+![](rockwell_02.jpg)
 
 The west-bound pony rider proceeded south along today’s State Street to the next station which was located just south of the Utah State Prison. This was at Porter Rockwell’s Hot Springs Brewery Hotel. The hotel and brewery made this a popular stopping point for travelers. A large adobe barn stood at the site well in to the previous century. A stone monument (N40 29 10.0 W111 54 01.0), largely vandalized of plaques, can be found at the south-east corner of the prison compound and north of the highway.
 
-
-
 Orrin Porter Rockwell was one of the most colorful characters on the Mormon frontier. He was a Danite (member of the Mormon protection group, organized in Missouri to protect against terrorist activities) and became a close friend and adherent of Joseph Smith while still in his teens. He served as bodyguard for both Joseph Smith and Brigham Young. In Utah, Rockwell served as a territorial law-man, with a reputation for relentless pursuit, and swift and final justice. Whether he was in fact a loyal defender of his Church and its leaders, or a cold blooded murderous villain, Porter is said to have asserted that he “never killed a man who didn’t need killing.” Photographs and drawings of Porter Rockwell show him with long, flowing hair and beard. It is said that Joseph Smith promised him that as long as he never cut his hair, a bullet would not take his life. Indeed, Porter died of heart failure in 1878, at age 65.
 
-108. Dugout/Joe’s Dugout Station (N40 21 19.0 W111 59 34.0) (M)
-
-
+108. **Dugout/Joe’s Dugout Station** (N40 21 19.0 W111 59 34.0) (M)
 
 Location: SW1/4NE1/4 Section 30, Township 5 South, Range 1 West, Salt Lake Meridian, 11 miles from Rockwell’s Station.
 
+![](dugout_01.jpg)
+![](dugout_02.jpg)
+
 Joe’s Dugout (aka Dugout, Joe Butcher’s, Seven Mile). The site is on the pass between Utah Valley and Cedar Valley. Nothing remains. There is a monument (N40 21 23.0 W111 59 18.0) at the bottom of the pass on the east side.
-
-
-Dugout Station's well site (from the Charles Kelly collection, Utah State Historical Society)
 
 In conjunction with the Express and stage operation, Joseph Dorton operated a small grocery store. Clients were generally the soldiers from Camp Floyd. He also built a two-room brick home and log barn and provided a dugout for an Indian boy helper. Besides well water, water was hauled from Utah Lake and sold for 25 cents/bucket.  Use of the station after 1861 is unknown. It may have continued in use as a stage station.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-109. Camp Floyd/Fairfield Station (N40 15 37.9 W112 05 34.4) (M#82)
-
-map
+109. **Camp Floyd/Fairfield Station** (N40 15 37.9 W112 05 34.4) (M#82)
 
 Location: NE1/4NW1/4 Section 32, Township 6 South, Range 2 West, Salt Lake Meridian, 8 ¼ miles from Dugout Station.
 
+![](floyd_1.jpg)
+![](floyd_2.jpg)
+
 In 1857, President James Buchanan sent an army of U.S. troops under Albert Sidney Johnston to quell a purported uprising in Utah. When the “Mormon War” was settled in 1858 without a battle, Johnston and his army of 3000 Union soldiers built Camp Floyd, named for Secretary of War John B. Floyd. The pastoral village of Fairfield soon became a raucous town of 7000, including 17 saloons, the third largest city in Utah. Then the Civil War broke out and in early summer of 1861, the army, now under Col. Phillip St. George Cooke, was recalled to the United States. John Carson built his two story home in Fairfield in 1855. The Carson Inn, the building now known as the Stagecoach Inn, served as an Inn and a station for the Overland Stage. Today it is the centerpiece of Camp Floyd/Stagecoach Inn State Park. The Pony Express Station was a small adobe building about a block northeast of the Inn. It is still standing, has a wooden facade, and is open to the public as a Utah State Park. It was operated by the family until 1947. Such personages as Horace Greeley, Mark Twain, Sir Richard Burton, Porter Rockwell, Bill Hickman, and General (then Colonel) Albert Johnston stopped at the inn.
+
+![](floyd_3.jpg)
 
 For soldiers marooned in this desert spot, knowing that civil war seemed eminent, news from the east was eagerly awaited. On “Pony Day,” the day when the pony express mail was to arrive, a lookout was stationed on the roof of one of the camp buildings to raise a cry when the pony rider came in sight.
 
+![](floyd_4.jpg)
+![](floyd_5.jpg)
+
 In 1858 James Hervey Simpson was a Captain in the Army Corp of Topographical Engineers. When President Buchanan ordered the Army to send troops to Utah to put down “The Mormon Rebellion,” Simpson was attached to the command of Brigadier General Johnston and sent to Camp Floyd. Soon after arriving here he was assigned to make a preliminary reconnaissance into the desert to the west in an effort to find a central route to California. Prior to this time, anyone heading west from Salt Lake City had to go around the north end of the Great Salt Lake and down the Humboldt River, or follow the Mormon Corridor and the Old Spanish Trail to Las Vegas and Los Angeles. In October of 1858 Simpson, with a small expedition of about 40 men and 5 army wagons left Camp Floyd and headed west. After going about 70 miles, winter weather started closing in and they returned to Camp Floyd. Simpson was optimistic about what he had seen and the following May, he started out again, this time to go all the way to Genoa, just south of Carson City, Nevada, and then to return by another route. This was the opening of the Central Overland Wagon Road. A few emigrants started using it right away and the following year its route was adopted by the Overland Stage and the Pony Express. A grove of trees can be seen about a ¼ mile south of SR 73. This is the cemetery where soldiers and other residents of Camp Floyd were buried.
-
-
 
 Nothing remains but there is a monument (N40 15 38.0 W112 05 34.0) to the east across from the restored Stagecoach Inn. The visitor center has a small bookstore and is good for information. All that remains are the commissary building, where the museum is now, and the cemetery. The Stagecoach Inn was built in 1858 across the street from the commissary and served as a Pony Express stop. The inn was restored in 1959. The museum is open year-round from 9 -5 but is closed on Thanksgiving, Christmas and New Year’s Day. Day-use facilities include picnic tables with drinking water, restrooms, barbecue grills, fire pits and covered pavilions.
 
 Fort Crittenden and Camp Floyd are one in the same. Camp Floyd was named after Secretary of War John Floyd. As the civil war flared up Floyd sympathized with the south, the base was renamed Fort Crittenden.
 
-
-Camp Floyd/Carson's Inn, Utah State Park, Fairfield, Utah (BLM 1977)
-
 The camp was built in July of 1858 and in December of 1860, Camp Floyd was renamed Fort Crittenden. It was abandoned in July 1861 when the troops were called back to the east for the escalating north-south tension. The almost dismantled Camp/Fort which once housed up to 7000, and what little was left, has been taken by locals.
 
 The last half of the Pony Express operations, it would have officially been known as Fort Crittenden though very little bears that name today, in fact everything official refers to it as Cedar Fort. The Cedar Fort /Stagecoach Inn State Park features a stagecoach hotel and small museum with artifacts and pictures of the once bustling fort.
 
- 
+110. **Pass/East Rush Valley Station** (N40 12 23.1 W112 17 35.6) (M)
 
-110. Pass/East Rush Valley Station (N40 12 23.1 W112 17 35.6) (M)
-
-mapLocation: NE1/4SE1/4 Section 16, Township 7 South, Range 4 West, Salt Lake Meridian, 10 miles from Fairfield Camp Floyd.
+Location: NE1/4SE1/4 Section 16, Township 7 South, Range 4 West, Salt Lake Meridian, 10 miles from Fairfield Camp Floyd.
 
 The first Pony Express station in Tooele County, UT, is located in Rush Valley while heading west from Utah County toward Faust on Faust Road, which is also the original Pony Express Trail. Faust Road begins at Five Mile Pass on the county line between Tooele and Utah Counties, and ends at Faust near Vernon. East Rush Valley Station, built as a dugout, was listed by Howard Egan as being very active even though it is not identified as a contract station. The military road ran just to the south of the station, toward Vernon, and is still quite visible today.
 
@@ -174,9 +161,7 @@ Also called “No Name” or Five Mile Pass, this station’s stone monument out
 
 When in early 1861 Colonel Johnston left the Union to fight for the Confederacy, Colonel Phillip St. George Cook became the new post commander. The name was changed to Ft. Crittenden, but by May of 1861 the Fort was abandoned and ordered destroyed. By September of that year, Fairfield’s population had dwindled to about 18 families.
 
-111. Faust’s Station (N40 10 27.0 W112 25 38.8 (M#53) (P)
-
-
+111. **Faust’s Station** (N40 10 27.0 W112 25 38.8 (M#53) (P)
 
 Location: Lot 4, Section 5, Township 8 South, Range 5 West, Salt Lake Meridian, 8 ¾ miles from East Rush Valley.
 
@@ -190,16 +175,13 @@ The property, which includes the stone building and a cemetery, is under private
 
 In the early 1990s, the Bureau of Land Management erected a Pony Express Trail Interpretive Site on the road to Lookout Pass to serve visitors who are crossing the desert to see the several Pony Express Station markers. The sign encourages visitors to respect the land on which they are traveling. Visitors to the Great Salt Lake Desert and Pony Express Trail are reminded there are no services on the Trail for over 100 miles between Vernon and Ibapah.
 
-112. Point Lookout/Lookout Pass Station (N40 07 10.7 W112 34 35.2) (M) vandalized
+112. **Point Lookout/Lookout Pass Station** (N40 07 10.7 W112 34 35.2) (M) vandalized
 
-mapLocation: NW1/4SE1/4 Section 13, Township 8 South, Range 7 West, Salt Lake Meridian, about 8 ¼ miles from Rush Valley.
+Location: NW1/4SE1/4 Section 13, Township 8 South, Range 7 West, Salt Lake Meridian, about 8 ¼ miles from Rush Valley.
 
 Also called Point Lookout, General Johnston’s Pass and Jackson’s, the station is on BLM land. Above a flat on the west side of Lookout Pass (General Johnston’s Pass in the days of the Pony Express) you find the marker for the location . A rock alignment and the trace of the old road can be seen between the stone monument and a dam built to catch water from a small spring.
 
 Originally, Lookout Pass was identified by Simpson as General Johnston’s Pass. The mail contract called it Point Lookout. From the top of the pass one can look west into the desert at what was to become known as Piute Hell. In May 1860, the Pah Ute War began, caused apparently because of white encroachment and depredations. For a short time, the Express was completely shut down (June-July). This “war” was finally settled after the Civil War when soldiers were sent west to quell the Indian uprisings.
-
-
-Dog cemetery or other structure at Point Lookout
 
 An Egan employee, Fredrick W. Hurst, chronicles a station near the pass as being “Jackson’s Station” in Brush Hollow. By 1876, the survey records show the site to be settled by Horace Rockwell (O.P. Rockwell’s brother) and his wife, Libby. Reportedly in 1885 and since about 1870, the Rockwells occupied a small log house, possibly the old station house. A small cemetery plot, to the south, with iron railings apparently contains the remains of Rockwell’s pet dogs. No other physical remains can be found at the site.
 
@@ -207,20 +189,17 @@ An employee of Howard Egan stated that Egan built a small two-room log house her
 
 A few years later, Horace Rockwell, brother of Orrin Porter Rockwell, and his wife Libby lived in a small log house at Lookout. They had no children, and Aunt Libby, as she was called, kept several dogs upon which she doted. The stone enclosure a short distance to the south was built to protect the cemetery where her beloved dogs are buried. Three emigrant graves are also said to be found within. An entertaining story is told of a time when one of Aunt Libby’s beloved dogs was sick. She sent to Tooele, about 40 miles away, for the nearest doctor. She sent the message that one of the ranch hands was critically ill, knowing that old Doctor Dodds would never make the trip to treat a dog. When he arrived, late at night, he was nearly apoplectic to find he had rushed out there for a sick dog. Aunt Libby just smiled and gave him a $20 gold piece, and everyone was happy.
 
-113. Government Creek Station (N40 05 08.0 W112 41 07.0) (NM)
-
-
-Government Creek Station site (BLM photo 1978)
+113. **Government Creek Station** (N40 05 08.0 W112 41 07.0) (NM)
 
 Location: SE1/4SE1/4 Section 25, Township 8 South, Range 8 West, Salt Lake Meridian, about 8 ¼ miles from Lookout one crosses Government Creek. Also called Davis’ House and Government Wash.
 
 Although a telegraph relay station, operated by David E. “Pegleg” Davis, was located here in late 1861, the existence of a Pony Express relay station is a matter of debate. No contract or mail company schedule mentions a station at Government Creek. But the distance and topography between Simpson and Lookout would make this a logical location for a change of ponies, and it is speculated that the telegraph station may have been placed there because of buildings already standing. The transcontinental telegraph was in operation through this area until 1869 when it was moved north to parallel the new transcontinental railroad. Nothing remains.
 
-114. Simpson’s Springs/Egan’s Springs/Lost Springs Station (N40 02 22.0 W112 47 15.3) (M#87)
-
-map
+114. **Simpson’s Springs/Egan’s Springs/Lost Springs Station** (N40 02 22.0 W112 47 15.3) (M#87)
 
 Location: SW1/4NE1/4 Section 18, Township 9 South, Range 8 West, Salt Lake Meridian, 8 miles from Government Creek.
+
+![](simpson_01.jpg)
 
 The station now located on BLM land, bears the name of explorer Captain J. H. Simpson who stopped here in 1858 while searching for the overland mail route between Salt Lake City and California. It was one of the most dependable watering points in this desert region. Captain Simpson first named the spring “Pleasant Spring” because of the good water. He later renamed the spring “Simpson Springs” because of the spring’s significance as the “last stop for water” for travelers heading west. The water at became a necessity for the Pony Express from 1860-1861 and for the Overland Stage from 1861 to 1869. Even before the days of the Pony Express, freighting companies used the springs as a watering stop. George Chorpenning established a mail station at this site in 1858. At the turn of the century, the spring was still being used by freighters hauling supplies from mining towns around Gold Hill to western Utah. It is still a key watering location for livestock.
 
@@ -230,33 +209,35 @@ The first east-bound Pony Express courier halted here about 5 p.m. April 7, 1860
 
 A Civilian Conservation Corp (CCC) Camp was built west of the site in the 1930’s. One can see remnants of it today. The BLM has developed the area and installed camping facilities.
 
-115. River Bed Station (N39 57 35.8 W112 53 42.5) (M#88)
-
-
+115. **River Bed Station** (N39 57 35.8 W112 53 42.5) (M#88)
 
 Location: NE1/4NE1/4 Section 18, Township 10 South, Range 9 West, Salt Lake Meridian, 8 miles from Simpson Springs.
 
 After Simpson Springs is the River Bed Pony Express Station, which lies on the floor of the ancient Sevier River bed formed by evaporation of Lake Bonneville, that drained from the area of Garfield County into Lake Bonneville. The water contained in the northern portion of the great inland sea had a greater surface than the southern portion. Consequently more evaporation occurred in the northern part. Water seeks its own level and in this case, the water was squeezed into a low channel between two mountain ranges on the east and west. Here the movement of the water from south to north dug the river as the lake receded.
 
+![](riverbed_1.jpg)
+![](riverbed_2.jpg)
+
 The road drops into the old bed of the Sevier River and the site of Riverbed Station. It was built near the end of the Pony Express era, and is not mentioned in the mail contracts or schedules. Substantial structures were found here to serve the stagecoach line. It is on BLM land and has a monument however, nothing remains but the original trail can be seen north of the monument.
 
 Because of flash flooding, little evidence today remains of the station’s existence.  It is mentioned that it was hard to keep a station keeper at Riverbed because the area was supposedly haunted by “desert fairies.” A monument was established at the site by the Civilian Conservation Corp in 1939 or 1940.
 
-116. Dugway Station/Dugout (N39 51 29.7 W113 02 09.6) (M#89)
-
-
+116. **Dugway Station/Dugout** (N39 51 29.7 W113 02 09.6) (M#89)
 
 Location: SE1/4SW1/4 Section 13, Township 11 South, Range 11 West, Salt Lake Meridian, 10 ½miles from Riverbed.
+
+![](dugway_1.jpg)
+![](dugway_2.jpg)
 
 Water for Dugway Station had to be hauled from Simpson’s Springs. Although three wells were dug over several years, one reaching a depth of 120 feet, no water was found. Noted as a “substation” by Horace Greeley,  nothing very permanent was ever constructed at the site. In 1860 a shelter was placed over a dugout and an adobe chimney installed. In the 1890’s, the location was utilized as a halfway stop by the Walters and Mulliner Stage Co. on the route between Fairfield and Ibapah. A monument is located at the site today. Physical evidence at the station site is limited to a disturbed area containing poorly preserved metal objects (possibly from a corral or blacksmithing area north of the wash) and some concentrated stone.
 
 mapAlso known as Shortcut Pass, it is located on BLM land east of Dugway Pass, which connects the Dugway mountain range to the north and the Thomas range on the south. The station was located ~1½ mile south of the modern road, about 8¼ miles west of Riverbed. Burton says that the station was simply a dugout roofed over with split cedar logs, with a crude adobe chimney. Three wells were attempted, the deepest being dug to a depth of more than 153 feet. All were dry, and water had to be hauled from Simpson or Riverbed. Nothing remains but a monument.
 
-117. Black Rock Station (N39 52 41.1 W113 16 17.5) (M) east
-
-
+117. **Black Rock Station** (N39 52 41.1 W113 16 17.5) (M) east
 
 Location: NW1/4SE1/4 Section 12, Township 11 South, Range 12 West, Salt Lake Meridian, 13 ¾ miles from Dugway.
+
+![](blackRock.jpg)
 
 Also known as Butte, or Desert Station, it was named for the black basalt outcropping just to the north of the road and the monument. Sharp says it was also known as Rock House. Initially called Butte or Desert Station, the rock structure was constructed as part of trail improvements undertaken by the Overland Mail Company after acquiring the Express in July 1861.
 
@@ -264,30 +245,25 @@ Little is known about Blackrock station, or its usage possibly due to it being a
 
 Informants say the station site lies west and north of the volcanic outcrop known geographically as Blackrock. The old Lincoln Highway (1913-1927) first encountered and utilized the old Overland Route about ¼ mile east of the monument. This routing was used as an alternate to the main road during wet weather.
 
-118. Fish/Smith/Fresh Springs Station (N39 50 52.9 W113 24 38.9) (M)
+118. **Fish/Smith/Fresh Springs Station** (N39 50 52.9 W113 24 38.9) (M)
 
-
-
-mapLocation: NW1/4NE1/4 Section 23, Township 11 South, Range 14 West, Salt Lake Meridian, 10 miles from Blackrock Station.
+Location: NW1/4NE1/4 Section 23, Township 11 South, Range 14 West, Salt Lake Meridian, 10 miles from Blackrock Station.
 
 J.H. Simpson placed two mail stations in this area: the one at Fish Springs first used by Chorpenning and another about 3 ¼ miles north at Warm Springs. The station at Warm Springs was apparently abandoned because of bad water.
 
 The original Chorpenning trail went south and west from Blackrock to where the salt-mud desert could be traversed. The trail then turned north to Fish Springs and passed Devil’s Hole, a local landmark. Later a better route was constructed across the flats on much the same route as the present road. This new route was used by the Express, stage and telegraph. From Fish Springs the Express rider would go over the pass just southwest of the station site, making the distance to Boyd’s Station about 9 miles. The stage freight, telegraph and Express (in bad weather) went around the north end of the Fish Springs Range making the trip about 14 miles. Through the years, Fish Springs, being about half-way between Rush Valley and Deep Creek, became a very prominent stop. In the latter part of the Nineteenth Century, John Thomas established a ranch near the station site and continued to serve the public. The Thomas Ranch buildings were torn down in the 1930’s and today only a foundation remains to mark the location of the ranch house. The site is located on the Fish Springs National Wildlife Refuge.
 
+![](fishSprings.jpg)
 
+[Fish Springs](https://www.expeditionutah.com/forum/index.php?threads/pony-express-trail-9-11-09.997/) was the 21st contract station in Utah. Sharp mentions it as a home station. The area, named for the numerous small fish found in the abundant warm springs, has been an important oasis in the Great Basin desert since prehistoric times. Although the monument (N39 50 53.0 W113 24 39.0) was built adjacent to the road, the station stood a distance to the east, near the present-day camp ground. The best estimate places the old station just south and west of the big trees visible to the east, near what is called the House Spring. Simpson described a thatch-roofed shed on the site in 1859, but extensive development and activity at Fish Springs since the days of the Pony have rendered difficult any accurate interpretation of the its early appearance. Today, the station site and the surrounding area are a part of Fish Springs National Wildlife Refuge, administered by the U.S. Fish and Wildlife Service. The Refuge, established in 1959, covers almost 18,000 acres, including approximately 10,000 acres of marsh land. It serves as an important stop on the migration routes of thousands of birds from dozens of species, as well as a prime location for a variety of fields of wildlife research.
 
-Fish Springs was the 21st contract station in Utah. Sharp mentions it as a home station. The area, named for the numerous small fish found in the abundant warm springs, has been an important oasis in the Great Basin desert since prehistoric times. Although the monument (N39 50 53.0 W113 24 39.0) was built adjacent to the road, the station stood a distance to the east, near the present-day camp ground. The best estimate places the old station just south and west of the big trees visible to the east, near what is called the House Spring. Simpson described a thatch-roofed shed on the site in 1859, but extensive development and activity at Fish Springs since the days of the Pony have rendered difficult any accurate interpretation of the its early appearance. Today, the station site and the surrounding area are a part of Fish Springs National Wildlife Refuge, administered by the U.S. Fish and Wildlife Service. The Refuge, established in 1959, covers almost 18,000 acres, including approximately 10,000 acres of marsh land. It serves as an important stop on the migration routes of thousands of birds from dozens of species, as well as a prime location for a variety of fields of wildlife research.
+119. **Boyd’s Station** (N39 50 37.7 W113 33 11.9) (M)
 
-119. Boyd’s Station (N39 50 37.7 W113 33 11.9) (M)
-
-
+![](Boyd.jpg)
 
 Location: SE1/4SE1/4 Section 20 Township 11 South, Range 15 West, Salt Lake Meridian, 14 miles from Fish Springs Station, via a road around the north end of the Fish Springs Range and 9 miles over the pass to the west of the station.
 
 Although Boyd Station is not identified in the 1861 mail contract, it was named by Howard Egan as an Express Station. The structure was small, built of stone and contained gun-ports.
-
-
-Boyd Station (BLM photo 1978)
 
 Boyd Station survives as one of the best preserved Express Stations in Utah. This preservation is probably due to the fact that Bid Boyd, station master, continued to occupy the site into the current century.
 
@@ -297,34 +273,24 @@ The station may also have been known as Butte or Desert Station. It does not app
 
 At this juncture the Express diverted from the old Chorpenning trail and headed straight west to Callao and Willow Springs Station. Chorpenning had gone south into Pleasant Valley and then around the south end of the Deep Creek Mountains.
 
-120. Willow Springs Station (N39 54 01.1 W113 42 50.9) (M#83) (P)
+120. **Willow Springs Station** (N39 54 01.1 W113 42 50.9) (M#83) (P)
 
-
-
-mapLocation: NW1/4SW1/4 Section 6 Township 11 South, Range 16 West, Salt Lake Meridian, 8 miles from Boyd Station.
-
-
-F. J. Kearney boarding house (BLM photo 1978)
+Location: NW1/4SW1/4 Section 6 Township 11 South, Range 16 West, Salt Lake Meridian, 8 miles from Boyd Station.
 
 A great deal of controversy has arisen over the location of the Willow Springs Station. Descriptions given by Nick Wilson (an Express rider) and Sir Richard Burton do not describe the location of the place now claimed to be the station site. A foundation, identified tentatively as dating to the proper period and similar to the structure depicted in the sketch from an 1868 photograph, has been found at the spot where an 1882 survey plat locates the Willow Springs Stable. This structure, located on the Dorcey Sabey property, is approximately 100 feet northeast of F. J. Kearney’s boarding house . This facility is about 3/4 mile east of the structure popularly known as the station house. Further archaeological investigations are necessary to establish the true location of the station.This station is on private land in the small ranching community of Callao. There is a monument next to the road. The locals are sure that it is on the Bagley ranch and still stands. Originally an adobe structure, it was covered with wood to keep it from washing away.
 
-
-
-
-
- 
-
- 
-
-121. Willow Creek/Six-Mile Station (N39 57 37.0 W113 45 20.0) (NM) (P)
+121. **Willow Creek/Six-Mile Station** (N39 57 37.0 W113 45 20.0) (NM) (P)
 
 Location: SE1/4NE1/4 Section 16, Township 10 South, Range 17 West, Salt Lake Meridian, 6 miles from Willow Springs Station.
 
 The 1875 cadastral survey plat, locates a cabin, springs, and connecting roads at a location along Six-Mile Creek. This, coupled with historic written accounts and knowledge that Pete Joyce built and occupied a log cabin at this location, suggests its use as a station house. It is on private land next to the road but nothing remains and no monument as well.
 
-122. Canyon/Burnt Station (N40 04 36.6 W113 50 44.4) (M)
+122. **Canyon/Burnt Station** (N40 04 36.6 W113 50 44.4) (M)
 
-mapLocation: SW1/4NW1/4 Section 18, Township 9 South, Range 17 West, Salt Lake Meridian, 6 miles from Willow Creek and 12 miles from Willow Springs Station.
+Location: SW1/4NW1/4 Section 18, Township 9 South, Range 17 West, Salt Lake Meridian, 6 miles from Willow Creek and 12 miles from Willow Springs Station.
+
+![](callao.jpg)
+![](burnt.jpg)
 
 This station has had two names as there was two apparent attempts at a Pony Express station in Overland Canyon were destroyed by fire. The first was built in the mouth of Blood Canyon near available water, and seems to have been rather short-lived . The second Canyon Station was located just west of the monument (N40 04 37.0 W113 50 44.0) which is visible across a deep wash west of the road. The station is said to have consisted of a log house with adjoining stable, and a dugout where meals were cooked and served. 5 express employees and 2 soldiers were killed when Canyon Station was burnt in July of 1863. Looking to the west across Clifton Flat, you will see a 2-track which is probably the remnant of the old stagecoach and pony express road. Both are on BLM land and nothing remains.
 
@@ -334,35 +300,32 @@ The original Canyon Station, also known as Burn’t Station, had been built by H
 
 Locally called Round Station (N40 02 40.5 W113 48 15.0), this recent connotation originates because prior to archaeological investigations in 1974, the only discernible feature was a round, relatively complete, fortified rock structure, which included gunports. This had been interpreted as the station house. Excavations revealed the actual station house foundation (as well as the corral area) to be east of the round fortification. The Gale Parker’s recall their grandfather having spoke of a roof being on the fortification.
 
-
-BLM interpretive ramada at the Round Station site looking towards Overland Canyon (BLM photo 1978)
-
 Artifacts collected indicate no extensive use after 1870. The Bureau of Land Management has stabilized the fortification and the station foundation, and has provided an interpretive ramada and parking facilities (See Photos 36 & 37).
 
 This stabilized fortification, was built in 1863 to serve the Overland Stage. It was probably the third incarnation of Canyon Station, the first 2 having been burned by Indians. The ruin is that of a structure probably used for defense, and the foundation of the station is visible to the south and east across the parking lot. The interpretation is the product of a cooperative agreement among the BLM, National Park Service, and the Utah Division of the National Pony Express Association.
 
+123. **Deep Creek/Eagan’s Station** (N40 01 47.2 W113 59 12.5) (M#47)
 
+Location: Lot 4, Section 9, Township 9 South, Range 19 West, Salt Lake Meridian, 14 miles from Round Station via the original trail.
 
- 
-
-123. Deep Creek/Eagan’s Station (N40 01 47.2 W113 59 12.5) (M#47)
-
-mapLocation: Lot 4, Section 9, Township 9 South, Range 19 West, Salt Lake Meridian, 14 miles from Round Station via the original trail.
-
-
+![](deepCreek_1.jpg)
+![](deepCreek_2.jpg)
 
 Deep Creek was the home of Howard Egan, the division superintendent for service between Salt Lake City, Utah, and Roberts Creek (near Eureka, Nevada). This well-equipped and service functioning facility was the most westerly station located within the present boundaries of Utah. The western boundary of the Utah Territory at this time was the California state line and Genoa the most westerly Utah Territory station.
-
-
 
 Harrison Sevier was the station master. Buildings included an adobe station, house, and barn. The telegraph established a repeater station at this location in 1861 with George Ferguson being the telegrapher. The station site is presently on the ranch of Sidney (DeVerl) Nichols, Jr. Incidentally, Joan and Hilda Erikson paid for the last telegraph message to be sent from this station in 1869.
 
 Located at the Ibapah Trading Post (which, at times, has fuel).  Eagan laid out the road for that stretch and supervised its construction. Nothing remains. A monument (N40 01 47.0 W113 59 12.0) is a couple of miles south on the trail. This was the last station in the state.
 
-NOTES: (P) – Private Land; / – alternative name (alternative location); (M#) – direction to monument or comment; (NM?) No Monument?; ($) – Fee;
+### NOTES: (P) – Private Land; / – alternative name (alternative location); (M#) – direction to monument or comment; (NM?) No Monument?; ($) – Fee;
 
-More information is available on this NPS website.
+More information is available on [this NPS website.](http://www.nps.gov/history/history/online_books/blm/ut/2/index.htm)
 
-Trip Reports: (may need to register [free] to view)
+## Trip Reports
+*May need to register [free] to view.*
 
-http://www.expeditionutah.com/forum/showthread.php?t=2457
+* [5 Mile To Nevada Via The Pony Express Trail & More](https://www.expeditionutah.com/forum/index.php?threads/5-mile-to-nevada-via-the-pony-express-trail-more.6327/)
+* [Pony Express to the Entire Great Salt Lake](https://www.expeditionutah.com/forum/index.php?threads/pony-express-to-the-entire-great-salt-lake.6669/)
+* [Pony Express Trail 9/11/09](https://www.expeditionutah.com/forum/index.php?threads/pony-express-trail-9-11-09.997/)
+* [Pony Express Trail: UT/NV/CA - October 2010](https://www.expeditionutah.com/forum/index.php?threads/pony-express-trail-ut-nv-ca-october-2010.5926/)
+* [KSL: Exploring the historic Pony Express Trail in Utah's West Desert](https://www.expeditionutah.com/forum/index.php?threads/ksl-exploring-the-historic-pony-express-trail-in-utahs-west-desert.5230/)
