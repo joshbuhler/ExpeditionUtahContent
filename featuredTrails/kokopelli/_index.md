@@ -49,9 +49,9 @@ Public lands are continually being reconsidered in this region and it wouldn’t
 
 ## References & Trip Planning
 
-* [BLM - Kokopelli's Trail](https://www.blm.gov/visit/kokopellis-trail)
-* [Colorado Plateau Mountain Bike Trail Association (COPMOBA)](http://copmoba.org/)
-* [Kokopelli 4×4 Trail](http://adventr.co/4x4-trails/kokopelli-4x4-trail/)
+* [BLM.gov: Kokopelli's Trail](https://www.blm.gov/visit/kokopellis-trail)
+* [COPMOBA: Colorado Plateau Mountain Bike Trail Association](http://copmoba.org/)
+* [ADVENTR.co: Kokopelli 4×4 Trail](http://adventr.co/4x4-trails/kokopelli-4x4-trail/)
 
 ## Books
 * Wells, Charles – *Guide to Moab, UT: Backroads & 4-Wheel Drive Trails*
