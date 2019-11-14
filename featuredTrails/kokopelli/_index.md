@@ -47,10 +47,11 @@ Public lands are continually being reconsidered in this region and it wouldn’t
 * Cisco, Utah (currently no services but in the past a small general store has been open during the summers)
 * Moab, Utah – All services available including lodging
 
-## References
+## References & Trip Planning
 
 * [BLM - Kokopelli's Trail](https://www.blm.gov/visit/kokopellis-trail)
 * [Colorado Plateau Mountain Bike Trail Association (COPMOBA)](http://copmoba.org/)
+* [Kokopelli 4×4 Trail](http://adventr.co/4x4-trails/kokopelli-4x4-trail/)
 
 ## Books
 * Wells, Charles – *Guide to Moab, UT: Backroads & 4-Wheel Drive Trails*
